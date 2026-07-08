@@ -1,10 +1,10 @@
 ## Method Overview 
 - Improving Neural Volume Rendering via Learning View-Dependent Integral Approximation   
 IEEE Transactions on Visualization and Computer Graphics
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/10938376)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10938376)  
 TL;DR: Improve geometric fidelity and consistency in novel view synthesis by modeling integrals with anisotropic representations  
 - TayloRF: Approximate Volume Integral Using Explicit Polynomial Representations  
-[[Paper]](https://arxiv.org/abs/xxxx)
+[[Paper]](https://arxiv.org/abs/xxxx)  
 TL;DR: Propose a polynomial-based implicit 3D representation that explicitly models intra-interval variations in volume rendering  
 
 ## Visual Blender Result
